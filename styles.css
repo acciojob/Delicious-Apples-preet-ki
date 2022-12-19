@@ -1,1 +1,48 @@
 /* your code here */
+.price{
+    color: red;
+}
+.price span{
+    font-size: 40px;
+}
+.buy-btn{
+    color: white;
+    background-color: red;
+    width:170px;
+    font-size: medium;
+    padding: 8px;
+    border-radius: 2px;
+}
+#color{
+ display:flex;
+ text-decoration: none;
+ 
+ 
+}
+.product-info{
+    left:450px;
+    position: absolute;
+    top:40px;
+}
+#heart{
+    position: absolute;
+    left:335px;
+}
+.controls{
+    position: absolute;
+    top:8px;
+}
+.photo-album{
+    display:flex;
+      flex-direction: row;
+      text-decoration: none;
+}
+#shape{
+display: flex;
+flex-direction: row;
+text-decoration: none;
+}
+.variant:hover{
+    cursor: pointer;
+    
+}
